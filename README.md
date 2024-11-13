@@ -30,26 +30,26 @@ This project performs face recognition using OpenCV's Local Binary Patterns Hist
 4. Model Persistence: Save and load trained models and features for future predictions
 
 ## Methods
-**Data Collection and Preprocessing**
+**Data Collection and Preprocessing:**  
 Collected facial images of selected individuals from a designated dataset.  
 Converted images to grayscale for faster processing and to improve accuracy.  
 Used Haar Cascades to detect faces within images, generating face regions of interest (ROI).  
 
-**Feature Extraction and Labeling**  
+**Feature Extraction and Labeling:**  
 Created a list of features (image arrays) and corresponding labels by processing each face.  
 Extracted key regions in each image to focus on recognizable facial features.  
 
-**Face Recognition Model**  
+**Face Recognition Model:**  
 Employed the LBPH algorithm to train a face recognition model on the extracted features and labels.  
 Saved the trained model and associated arrays for testing and reuse.  
 
-**Testing and Validation**  
+**Testing and Validation:**  
 Loaded the trained model to perform predictions on test images.  
 Displayed recognized faces with a confidence score, visually identifying them with bounding boxes and labels.  
 
 ## Installation
 1. Clone the repository:
-   ![image](https://github.com/user-attachments/assets/bf29b954-d9b9-4a28-9bdc-a68b603a1c22)
+   ![image](https://github.com/user-attachments/assets/d576b111-18f9-4a36-9985-0f15ae1932c4)
 
 2. Install the required libraries:
    ![image](https://github.com/user-attachments/assets/801a8ee6-8ccb-45da-82d4-3153d2a6433a)
