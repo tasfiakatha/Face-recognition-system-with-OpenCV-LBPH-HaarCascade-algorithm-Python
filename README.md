@@ -8,7 +8,7 @@
 - [Project overview](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#project-overview)
 - [Methods](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#methods)
 - [Installation](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#installation)
-- [Quick Look at the Results](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#quick-look-at-the-results)
+- [Quick look at the results](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#quick-look-at-the-results)
 - [Troubleshooting](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#troubleshooting)
 - [Explore the Notebook](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#explore-the-notebook)
 - [Repository structure](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#repository-structure)
@@ -57,7 +57,7 @@ Displayed recognized faces with a confidence score, visually identifying them wi
 3. Download Haar Cascade Model: Place the haar_face.xml file in the root directory or specify its path in the code. You can download it [here](https://github.com/opencv/opencv/tree/master/data/haarcascades).
 
 
-## Quick Look at the Results
+## Quick look at the results
 The model is able to successfully recognize individual faces from the validation images, with prediction labels and confidence scores displayed on detected faces. The confidence scores offer a measure of certainty, enhancing understanding of the model's performance.
 
 **Correct face recognition**  
