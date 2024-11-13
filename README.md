@@ -12,7 +12,7 @@
 - [Troubleshooting](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#troubleshooting)
 - [Explore the Notebook](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#explore-the-notebook)
 - [Repository structure](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#repository-structure)
-- [Contribution](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#controbution)
+- [Contribution](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#contribution)
 - [License](https://github.com/tasfiakatha/Face-recognition-system-with-OpenCV-LBPH-HaarCascade-algorithm-Python/blob/main/README.md#license)
 
 ## Project overview
